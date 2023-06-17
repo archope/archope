@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @archope
-- 👀 I’m interested in crypto 
-- 🌱 I’m currently learning Facebook ads
-- 💞️ I’m looking to collaborate on Google 
-- 📫 How to reach me soilactionpoint@gmail.com
+- 👀 I’m interested in ... Programming and crypto
+- 🌱 I’m currently learning ... Java, Python and Java scrip for the purposed of software testing 
+- 💞️ I’m looking to collaborate on ... E-commerce, Fintech and Crypto Projects
+- 📫 How to reach me ... on my twitter via @colossus_DHova
 
 <!---
 archope/archope is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
